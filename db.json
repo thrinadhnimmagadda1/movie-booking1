@@ -9,9 +9,16 @@
       },
       {
         "id": 2,
-        "title": "The Dark Knight",
+        "title": "Venom",
         "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
         "poster": "https://image.tmdb.org/t/p/original/k42Owka8v91trK1qMYwCQCNwJKr.jpg",
+        "reviews": []
+      },
+      {
+        "id": 3,
+        "title": "The Wild Robot (2024)",
+        "description": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+        "poster": "https://image.tmdb.org/t/p/original/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
         "reviews": []
       }
     ]
