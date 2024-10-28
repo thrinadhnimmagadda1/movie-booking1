@@ -1,0 +1,19 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Inception",
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology.",
+        "poster": "https://image.tmdb.org/t/p/w500/qmDpIHrmpJINaRKAfWQYi5tC1hp.jpg",
+        "reviews": []
+      },
+      {
+        "id": 2,
+        "title": "The Dark Knight",
+        "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+        "poster": "https://image.tmdb.org/t/p/original/k42Owka8v91trK1qMYwCQCNwJKr.jpg",
+        "reviews": []
+      }
+    ]
+  }
+  
