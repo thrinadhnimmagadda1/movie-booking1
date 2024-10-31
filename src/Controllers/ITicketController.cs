@@ -1,8 +1,10 @@
-﻿using System;
+﻿using System.Collections.Generic;
+using System.Threading.Tasks;
+using MovieReviewApi.Models;
 
-public class Class1
-{
-	public Class1()
-	{
+namespace SimpleRestApi.Repositories {
+
+	public interface ITicketController {
+		Task<IEnumerable<Ticket>> GetTickets(int movieId); // GET
 	}
 }
